@@ -1,0 +1,101 @@
+id,name,category_id,price
+1,Apple iPhone 15 Pro 256GB,1,49999
+2,Samsung Galaxy S24 Ultra 512GB,1,54999
+3,Google Pixel 8 Pro 256GB,1,42999
+4,Xiaomi 14 Ultra 512GB,1,38999
+5,OnePlus 12 256GB,1,32999
+6,Samsung Galaxy A55 128GB,1,18999
+7,Motorola Edge 50 Pro 512GB,1,28999
+8,Nothing Phone 2a Plus 256GB,1,24999
+9,Apple iPhone 15 128GB,1,43999
+10,realme GT 6 Pro 512GB,1,21999
+11,"Apple MacBook Pro 16"" M3 Max 512GB",2,89999
+12,Dell XPS 15 Plus Intel Core i7 1TB,2,54999
+13,ASUS ROG Zephyrus G16 RTX 4080 1TB,2,79500
+14,Lenovo ThinkPad X1 Carbon Gen 12 512GB,2,52000
+15,HP Pavilion 15 AMD Ryzen 5 256GB,2,18500
+16,Acer Swift 3 OLED Intel Core i5 512GB,2,31999
+17,MSI GE76 Raider RTX 4070 1TB,2,68500
+18,Samsung Galaxy Book4 Pro 360 OLED 1TB,2,42999
+19,Huawei MateBook D16 Intel Core i7 512GB,2,26500
+20,Razer Blade 15 Advanced RTX 4090 2TB,2,119999
+21,"Apple iPad Pro 11"" M4 512GB Wi-Fi",3,52990
+22,Samsung Galaxy Tab S9 Ultra 256GB,3,38490
+23,"Apple iPad Air 11"" M2 256GB Wi-Fi 2024",3,34990
+24,Lenovo Tab P12 Pro Gen 2 256GB,3,18990
+25,"iPad 10.9"" 10th Generation 64GB Wi-Fi",3,16490
+26,Samsung Galaxy Tab S9 FE 64GB,3,11490
+27,OnePlus Pad 128GB,3,14990
+28,"Huawei MatePad Pro 12.6"" 512GB",3,21890
+29,Microsoft Surface Go 3 128GB Intel,3,19890
+30,POCO Pad 128GB Global Version,3,9990
+31,Apple AirPods Pro 2 (USB-C),4,7999
+32,Sony WH-CH720 Wireless Headphones,4,2499
+33,Samsung Galaxy Buds2 Pro,4,4999
+34,Bose QuietComfort Earbuds II,4,8499
+35,JBL Tune 770NC Noise Cancelling Headphones,4,3299
+36,Sennheiser Momentum 4 Wireless,4,5499
+37,Anker Soundcore Space Q45,4,2799
+38,Bang & Olufsen Beoplay H95,4,12999
+39,Jabra Elite 8 Active,4,3899
+40,Technics EAH-AZ80 Premium Earbuds,4,6499
+41,Apple Watch Series 9 45mm GPS,5,15999
+42,Samsung Galaxy Watch 6 Classic 47mm,5,12499
+43,Garmin Epix Gen 2 Sapphire,5,18999
+44,Fitbit Sense 2,5,8999
+45,Xiaomi Watch S1 Pro,5,5999
+46,HONOR Watch GS Rubber,5,4499
+47,Huami Amazfit GTR 4,5,6799
+48,Polar Grit X2,5,16499
+49,Mobvoi TicWatch Pro 3 Ultra GPS,5,7299
+50,Fossil Gen 6 Smartwatch 42mm,5,11799
+51,"Samsung QN75QN95C 75"" Neo QLED 4K Smart TV",6,89999
+52,"LG OLED65C4PUA 65"" OLED evo 4K Smart TV",6,67999
+53,"Sony KD-85XR80 85"" Bravia Professional Display",6,124999
+54,"TCL 55R645 55"" Roku Smart TV 4K HDR",6,12499
+55,"Hisense 65A7500F 65"" Smart TV 4K ULED",6,21999
+56,"Philips 55PUS8507 55"" Ambilight 4K Smart TV",6,31499
+57,"ASUS PA148CTC 14"" Portable USB-C Monitor",6,8999
+58,"Panasonic TX-43MZ800 43"" OLED 4K TV",6,44999
+59,"Sharp 50GK6 50"" Google TV 4K Smart TV",6,15999
+60,"BenQ EW5880UH 58"" Monitor 4K USB Type-C",6,27499
+61,Sony PlayStation 5 Slim 1TB,7,16999
+62,Microsoft Xbox Series X 1TB,7,15499
+63,Nintendo Switch OLED Model White,7,12999
+64,Sony PlayStation 5 Pro 2TB,7,24999
+65,Microsoft Xbox Series S 512GB,7,8999
+66,Nintendo Switch Lite Coral,7,6499
+67,Valve Steam Deck OLED 1TB,7,11999
+68,DualSense Edge Wireless Controller PS5,7,4499
+69,Xbox Elite Series 2 Controller,7,3999
+70,Nintendo Pro Controller Official,7,2999
+71,Canon EOS R5 Mirrorless Camera Body,8,149990
+72,Sony Alpha 7IV Full-Frame Mirrorless Camera,8,129999
+73,Nikon Z9 Professional Mirrorless Camera,8,189990
+74,DJI Mini 3 Pro Compact Drone 4K Camera,8,34999
+75,GoPro Hero 12 Black Action Camera 5.3K,8,24990
+76,Fujifilm X-S20 APS-C Mirrorless Camera,8,54990
+77,Panasonic Lumix S5II Full-Frame Mirrorless,8,89990
+78,Insta360 X4 360-Degree Action Camera,8,19999
+79,Olympus OM System E-M5 Mark III Mirrorless,8,44999
+80,Leica Q3 Compact Premium Fixed-Lens Camera,8,99990
+81,Apple AirPods Pro (2nd generation) with MagSafe Charging Case,9,7499
+82,Samsung Galaxy Watch 6 Classic 47mm Silver,9,8999
+83,DJI Mini 4 Pro Fly More Combo,9,14999
+84,Anker PowerCore Ultra 30000mAh 65W,9,1899
+85,GoPro HERO 12 Black,9,12499
+86,Sony WH-CH720 Wireless Headphones Black,9,2299
+87,Baseus Car Phone Mount with Dashboard Suction Cup,9,349
+88,Insta360 X3 360-Degree Action Camera,9,9899
+89,ASUS MX Master 3S Wireless Mouse,9,3499
+90,Nothing Ear Open Audio Glasses,9,5999
+91,"LG UltraWide 34"" 34UC89G-B",10,12999
+92,"Dell UltraSharp 27"" U2724D",10,8799
+93,ASUS ROG Swift 240Hz PG248QF,10,9999
+94,"BenQ EW2780U 4K 27"" Professional Monitor",10,7499
+95,"Samsung Odyssey G9 49"" Dual QHD Curved",10,18999
+96,"AOC Gaming 144Hz 27"" G2790PX",10,5499
+97,"ViewSonic ColorPro VP2458a 24"" LED IPS",10,4299
+98,"Acer Predator X34P 34"" UltraWide 180Hz",10,16599
+99,MSI MPG 321UR-QD 4K 144Hz Gaming Monitor,10,21499
+100,Gigabyte M27F 1440p 144Hz IPS Gaming,10,5799
